@@ -1,5 +1,5 @@
 import random
-pet_list = ['dog', 'cat', 'mouse', 'camel', 'horse']
+pet_list = ['dog', 'cat', 'mouse', 'camel', 'horse', 'lion']
 chosen_word = random.choice(pet_list)
 print(chosen_word)
 end_of_game = False
